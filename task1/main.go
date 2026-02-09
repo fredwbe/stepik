@@ -3,7 +3,8 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Println("Я внебрачный сын тайской шлюхи1")
-	fmt.Println("Я внебрачный сын тайской шлюхи2")
-	fmt.Println("Я внебрачный сын тайской шлюхи3")
+	a := 5
+	fmt.Println("Я внебрачный сын тайской шлюхи", a)
+	a = 10
+	fmt.Println("Всем hello")
 }
